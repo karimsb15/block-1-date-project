@@ -1,7 +1,7 @@
 {
   "name": "date-project",
   "version": "1.0.0",
-  "description": "",
+  "description": "Prints today's date and a reservation date 7 days later, with weekdays",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",

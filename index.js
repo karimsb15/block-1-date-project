@@ -1,0 +1,5 @@
+const dayjs = require('dayjs');
+const today = dayjs();
+const reservationDate = today.add(7, 'day');
+console.log('Today:', today.format('YYYY-MM-DD (dddd)'));
+console.log('Reservation Date:', reservationDate.format('YYYY-MM-DD (dddd)'));
