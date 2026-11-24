@@ -1,6 +1,6 @@
 # Date Project
 
-A small Node.js program that prints today's date and a reservation date four days later.
+A small Node.js program that prints today's date and a reservation date seven days later.
 
 ## Setup
 
